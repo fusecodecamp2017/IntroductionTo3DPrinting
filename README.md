@@ -1,13 +1,3 @@
-Maker mindset:Failing is good if u learn something 
-
-
-
-
-
-
-
-All of this information is taken from the link at the bottom of the page.
-
 **
 
 What Is 3D Printing?
