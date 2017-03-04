@@ -9,5 +9,15 @@ Move the other two circles to the other two points of the triangle within the ci
 Part 2
 
 Draw a hexagon (6 sides) inside each of the three remaining cirles.  The top point should also be placed at the top of the circle.
-Draw a second triangle inside the center circle.  It should be 90 degrees offset from the original triangle.
-Use the arc tool to draw an arc from one point on the hexagon to the opposite point on the closest hexagon with the curve intersecting the poin of the triangle on the center circle.
+If the points of the hexagon do not line up with the points of the triangle move the circle so that they are aligned.
+Draw a second triangle inside the center circle.  The point should be aligned with the bottom of the circle so that the points of the triange are offset from the original triangle.
+Use the arc tool to draw an arc from one point on the hexagon to the opposite point on the closest hexagon with the curve intersecting the point of the triangle on the center circle.  Do this three times to create an arc in the three spaces between the circles.
+Use the trim tool to remove all of the lines for the triangles and hexagons.
+Create a circle inside of the four other circles that are 22.1mm in diameter with the center point using the same center point as the outer circle.
+Use the trim tool to remove the parts of the circles so that you have four inside circles and one continuous outer perimeter.
+
+Part 3
+
+Use the press pull command to extrude the spinner 7.1mm.  If you have created the sketch correctly it will leave the 4 holes in the shape.
+Use the filet tool to round the edges of the spinner.  You should select all of the outer edges of the top of the shape and make a 2mm or 3mm filet.
+Perform the same function on the bottom of the shape.
