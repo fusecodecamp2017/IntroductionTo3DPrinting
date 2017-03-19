@@ -24,7 +24,7 @@ Part 2
    circles.  This will create an elongated oval with three circles
    inside.
  - Use the move function to move the two outermost circles toward the
-   center circle.  Ensure that the distance between the circles is
+   center circle.  Ensure that the distance between the circles is equal.
 
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%202.jpg)
 
