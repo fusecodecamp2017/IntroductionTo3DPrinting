@@ -47,3 +47,5 @@ Part 4
  - Use the extrude feature to emboss your name on the side of the
    spinner
  - Use the timeline feature to redo the filet
+
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%204.jpg)
