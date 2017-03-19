@@ -33,7 +33,7 @@ Part 3
 
  - Use the extrude function to extrude the solid part of the spinner up
    7.1mm.
- - Use the filet function to add a fillet to the top and bottom edge of
+ - Use the filet function to add a filet to the top and bottom edge of
    the spinner.  It should be about a 2mm filet.
    
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%203.jpg)
