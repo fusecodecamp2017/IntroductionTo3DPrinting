@@ -25,7 +25,8 @@ Part 2
    inside.
  - Use the move function to move the two outermost circles toward the
    center circle.  Ensure that the distance between the circles is
-   equal.
+
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%202.jpg)
 
 Part 3
 ------
@@ -34,6 +35,8 @@ Part 3
    7.1mm.
  - Use the filet function to add a fillet to the top and bottom edge of
    the spinner.  It should be about a 2mm filet.
+   
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%203.jpg)
 
 Part 4
 ------
