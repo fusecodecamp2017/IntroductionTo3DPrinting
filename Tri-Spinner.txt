@@ -3,13 +3,13 @@ Part 1
 Draw 1 circle with a 30mm diameter.  This will be the center of the tri-spinner
 Draw 3 circles witha a 33mm diameter.  Place them anywhere around the center circle.
 Use the polygon tool to create a triangle inside the center circle with the top pointing toward the top center of the circle
-Draw a hexagon (6 sides) inside each of the three remaining cirles.  The top point should also be placed at the top of the circle.
 Move one of the remaining circles to the top point.  It should be straight above the center circle and intersect on the point of the triangle and one of the points of the hexagon.
 Move the other two circles to the other two points of the triangle within the circle.  They should also intersect the center circle at the point of the triangle and one of the points of the hexagon.
 
 Part 2
 
-If the points of the hexagon do not line up with the points of the triangle move the circle so that they are aligned.
+Draw a hexagon (6 sides) inside each of the three remaining cirles.  The top point should also be placed at the top of the circle.
+If the points of the hexagon do not line up with the points of the triangle move the circle so that they are aligned (they most likely will need to be moved unless you are really lucky).
 Draw a second triangle inside the center circle.  The point should be aligned with the bottom of the circle so that the points of the triange are offset from the original triangle.
 Use the arc tool to draw an arc from one point on the hexagon to the opposite point on the closest hexagon with the curve intersecting the point of the triangle on the center circle.  Do this three times to create an arc in the three spaces between the circles.
 Use the trim tool to remove all of the lines for the triangles and hexagons.
