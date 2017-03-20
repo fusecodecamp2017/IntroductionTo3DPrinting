@@ -11,7 +11,7 @@ Part 1
  - Draw another perpendicular line on the bottom of the circles the same
    as the top line
    
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%201.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Straight%20Spinner%20-%20Part%201.jpg)
 
 Part 2
 ------
@@ -26,7 +26,7 @@ Part 2
  - Use the move function to move the two outermost circles toward the
    center circle.  Ensure that the distance between the circles is equal.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%202.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Straight%20Spinner%20-%20Part%202.jpg)
 
 Part 3
 ------
@@ -36,7 +36,7 @@ Part 3
  - Use the filet function to add a filet to the top and bottom edge of
    the spinner.  It should be about a 2mm filet.
    
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%203.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Straight%20Spinner%20-%20Part%203.jpg)
 
 Part 4
 ------
@@ -48,4 +48,4 @@ Part 4
    spinner
  - Use the timeline feature to redo the filet
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Straight%20Spinner%20-%20Part%204.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Straight%20Spinner%20-%20Part%204.jpg)
