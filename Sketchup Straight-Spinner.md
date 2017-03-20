@@ -11,7 +11,7 @@ Part 1
  - Move the two larger circles closer together but not so that they
    touch the center circle.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Sketchup%20Straight%20Spinner%20-%20Part%201.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sketchup%20Straight%20Spinner%20-%20Part%201.jpg)
 
 Part 2
 ------
@@ -21,5 +21,5 @@ Part 2
  - Use the erase tool to remove the inner part of the 30mm circles.
  - Pull the design up 7.1mm.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Sketchup%20Straight%20Spinner%20-%20Part%202.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sketchup%20Straight%20Spinner%20-%20Part%202.jpg)
  
