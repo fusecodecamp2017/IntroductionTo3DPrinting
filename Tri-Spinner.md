@@ -14,7 +14,7 @@ Part 1
    within the circle.  They should also intersect the center circle at
    the point of the triangle and one of the points of the hexagon.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Tri-Spinner%20-%20Part%201.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Tri-Spinner%20-%20Part%201.jpg)
 
 Part 2
 ------
@@ -37,9 +37,9 @@ Part 2
  - Use the trim tool to remove the parts of the circles so that you have
    four inside circles and one continuous outer perimeter.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Tri-Spinner%20-%20Part%202A.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Tri-Spinner%20-%20Part%202A.jpg)
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Tri-Spinner%20-%20Part%202B.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Tri-Spinner%20-%20Part%202B.jpg)
 
 Part 3
 ------
@@ -51,4 +51,4 @@ Part 3
    or 3mm filet.
  - Perform the same function on the bottom of the shape.
 
-![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/Tri-Spinner%20-%20Part%203.jpg)
+![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Tri-Spinner%20-%20Part%203.jpg)
