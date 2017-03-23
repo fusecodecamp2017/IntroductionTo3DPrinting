@@ -17,9 +17,9 @@
  - Right click on that extruded circle and choose create sketch
  - Use C to draw another circle using the same center point but 22.1mm in diameter.
  - Use Q to push the circle in.  Change the extent to object and choose the inside wall by rotating the box so that you can click on it.
+ - Perform the same circle/extrude/cricle/push function on the shorter side of the box.
 
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sample%20Box%20-%20First%20Tube%20and%20Second%20Circle.jpg)
 
- - Perform the same circle/extrude/cricle/push function on the shorter side of the box.
 
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sample%20Box%20-%20Second%20Tube%20Complete.jpg)
