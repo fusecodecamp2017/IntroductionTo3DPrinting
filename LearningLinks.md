@@ -8,3 +8,5 @@ http://www.learningfusion360.com/lesson-1-modeling-a-simple-fan/
 
 https://academy.autodesk.com/curriculum/fusion-360-training-making-future
 
+https://www.youtube.com/channel/UCv0LDps_1xX8NqkfiBK1LaQ
+
