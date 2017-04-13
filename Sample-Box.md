@@ -3,7 +3,7 @@
  - Extrude the rectangle up 50mm
  - Right click on the top and choose create sketch
  - Either choose offset from the sketch menu or use O.  Offset the rectangle -4mm
- - Use Q to push the inner rectangle down.  Change the extent to object and choose the bottom of the box by rotating the object and clicking on the bottom.
+ - Use Q to push the inner rectangle down.  Change the extent to object and choose the bottom of the box by rotating the object and clicking on the bottom.  Offset the Push/Pull by -4mm.
 
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sample%20Box%20-%20Basic%20Box.jpg)
 
