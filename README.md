@@ -14,6 +14,10 @@
 
 [Tri-Spinner](Tri-Spinner.md)
 
+## 3D Printing
+
+[3D Printing Information](3dprinting.md)
+
 
 ## After Project Resources
 
