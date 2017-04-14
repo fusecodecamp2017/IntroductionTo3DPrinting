@@ -1,4 +1,4 @@
 
 [Schedule](Schedule.md)
 
-[Keyboard Shortcuts](shortcuts.pdf)
+[Keyboard Shortcuts](Shortcuts.pdf)
