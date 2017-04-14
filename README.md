@@ -1,2 +1,2 @@
 
-(schedule.md)
+(Schedule.md)
