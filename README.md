@@ -3,9 +3,9 @@
 
 ## Sketchup
 
-[Straight Spinner](Sketchup-Straight-Spinner.md target="_blank")
+[Straight Spinner](Sketchup-Straight-Spinner.md)
 ## Fusion 360
 
-[Keyboard Shortcuts](Shortcuts.pdf){:target="_blank"}
+[Keyboard Shortcuts](Shortcuts.pdf)
 
-[Straight Spinner](Straight-Spinner.md){:target="_blank"}
+[Straight Spinner](Straight-Spinner.md)
