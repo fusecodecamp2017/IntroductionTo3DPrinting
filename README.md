@@ -1,2 +1,2 @@
 
-(Schedule.md)
+[Schedule](Schedule.md)
