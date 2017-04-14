@@ -71,8 +71,7 @@ ABS, or Acrylonitrile butadiene styrene, is the stuff Lego bricks are made from.
 Both PLA and ABS can be purchased in a wide variety of colors. PLA can be found in partially translucent colors if required.
 
 
-
-    http://www.makeuseof.com/tag/beginners-guide-3
+[Makeuseof 3D printing information](http://www.makeuseof.com/tag/beginners-guide-3)
 
         
 3D Printing Resources
