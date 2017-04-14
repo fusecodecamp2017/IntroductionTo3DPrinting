@@ -72,4 +72,24 @@ Both PLA and ABS can be purchased in a wide variety of colors. PLA can be found 
 
 
 
-    http://www.makeuseof.com/tag/beginners-guide-3d-printing/
+    http://www.makeuseof.com/tag/beginners-guide-3
+    3D Printing Nerd - https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ
+    d-printing/
+    
+    
+3D Printing Resources
+---------------------
+
+Youtube
+
+Print 3D Channel - https://www.youtube.com/channel/UCbZASdhtrVG8I112M-1sJwg
+3D Printing Nerd - https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ
+The Hot End - https://www.youtube.com/channel/UC-JJh3bkGdMbDGsiI6xV4Ug
+3D Central - https://www.youtube.com/channel/UCeYZg5Ynx0gGdeKQ-v7N8nQ
+
+Facebook Groups
+
+3D Printing - https://www.facebook.com/groups/makerbot/
+Folgertech 3D Printers - https://www.facebook.com/groups/Folgertech3dPrinters/
+3D Printing Club - https://www.facebook.com/groups/3Dprintingclub/
+
