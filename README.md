@@ -1,3 +1,5 @@
+# 3D Printing Design and 3D Printer basics
+
 [Schedule](Schedule.md)
 
 ## Sketchup
