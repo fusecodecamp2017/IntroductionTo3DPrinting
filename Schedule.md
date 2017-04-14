@@ -1,4 +1,4 @@
-8:30    Introductions
+8:30 | Introductions
 
 8:35    Ensure all students have Fusion 360 and Sketchup installed
 
