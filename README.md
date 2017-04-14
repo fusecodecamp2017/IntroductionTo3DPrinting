@@ -1,5 +1,4 @@
-
-[Schedule](Schedule.md){:target="_blank"}
+<a href="Schedule.md" target="_blank">Schedule</a>
 
 ## Sketchup
 
