@@ -10,6 +10,8 @@
  - Use the Filet tool to choose all four inside and all four outside corners.  Make it a 4mm filet.
  - Right click on one of the longer sides and choose create sketch
  - Use C for a circle and draw a circle with a 25mm diameter.  If you did not start the circle in a place where it will all fit use the M command to move the circle.
+ - Press D for dimension and click on the left edge of side of the box. Make the dimension 15mm
+ - Press d for dimension and click on the bottom edge of the box.  Make the dimension 25mm
  - Use Q to extrude the circle out 20mm
 
 ![enter image description here](https://github.com/fusecodecamp2017/IntroductionTo3DPrinting/blob/master/images/Sample%20Box%20-%20Filet%20and%20First%20Circle%20Extruded.jpg)
