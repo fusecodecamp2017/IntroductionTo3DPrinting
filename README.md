@@ -1,10 +1,22 @@
-<a href="Schedule.md" target="_blank">Schedule</a>
+[Schedule](Schedule.md)
 
 ## Sketchup
 
 [Straight Spinner](Sketchup-Straight-Spinner.md)
+
 ## Fusion 360
 
 [Keyboard Shortcuts](Shortcuts.pdf)
 
+[Sample Box - Lets learn some Fusion 360 Basics](Sample-Box.md)
+
 [Straight Spinner](Straight-Spinner.md)
+
+[Tri-Spinner](Tri-Spinner.md)
+
+
+## After Project Resources
+
+[Additional Learning Links](LearningLinks.md)
+
+
