@@ -3,14 +3,14 @@
 
 | Time 	  | Activity                                                                 	 | 
 |--------	|--------------------------------------------------------------------------- |
-| 8:30 	  | Introductions                                                              |     
-| 8:35 	  | Ensure all students have Fusion 360 and Sketchup installed 	               |  
-| 8:45 	  | Sketchup Basics                                                          	 |  
-| 9:15    | Fusion 360 basics (What does this button do?)                              |
-| 9:35    | Break                                                                      |
-| 9:45    | Sketchup - Straight Spinner                                                | 
-| 10:45   | Fusion 360 Straight Spinner                                                |
-| 11:30   | Lunch and start of Fusion 360 Tri-Spinner                                  |
+| 8:30am  | Introductions                                                              |     
+| 8:35am  | Ensure all students have Fusion 360 and Sketchup installed 	               |  
+| 8:45a	  | Sketchup Basics                                                          	 |  
+| 9:15am  | Fusion 360 basics (What does this button do?)                              |
+| 9:35am  | Break                                                                      |
+| 9:45am  | Sketchup - Straight Spinner                                                | 
+| 10:45am | Fusion 360 Straight Spinner                                                |
+| 11:30am | Lunch and start of Fusion 360 Tri-Spinner                                  |
 | 1:00pm  | Continutation of Tri-Spinner and Start Printing Spinners                   | 
 | 2:00pm  | Finish Tri-Spinners and start of 3D printing basic info                    |
 | 2:45pm  | Break                                                                      |
