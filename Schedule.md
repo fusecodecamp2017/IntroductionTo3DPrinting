@@ -4,7 +4,7 @@
 
 8:45            Sketchup basics
 
-9:15            Fusion 360
+9:15            Fusion 360 basics (What does this button do?)
 
 9:35            Break
 
@@ -20,7 +20,7 @@
 
 2:45 pm         Break
 
-3:00 pm         Continuation of 3D printing basic information
+3:00 pm         Continuation of 3D printing basic information and/or Fusion 360 challenges
 
 3:30 pm         Questions and finish any remaining designs
 
